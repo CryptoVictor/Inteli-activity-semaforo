@@ -128,7 +128,8 @@ Para visualizar as mensagens, abra o Serial Monitor no Arduino IDE e configure p
 
 ## Vídeo Demonstrativo
 
-![Video Demonstrativo](https://plum-atomic-lemur-391.mypinata.cloud/ipfs/bafybeidtpseiycgsmecmzpclsxuzocsvlcrkztsmpr3xvta76hd5amquf4)
+<a href="https://plum-atomic-lemur-391.mypinata.cloud/ipfs/bafybeidtpseiycgsmecmzpclsxuzocsvlcrkztsmpr3xvta76hd5amquf4">
+Link do video </a>
 
 ## Como Usar
 
